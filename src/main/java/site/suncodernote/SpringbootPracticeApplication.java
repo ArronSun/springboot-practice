@@ -1,9 +1,9 @@
-package site.sunlong.springbootpractice;
+package site.suncodernote;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = {"site.suncodernote.*"})
 public class SpringbootPracticeApplication {
 
     public static void main(String[] args) {

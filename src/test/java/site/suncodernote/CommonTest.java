@@ -1,4 +1,4 @@
-package site.sunlong.springbootpractice;
+package site.suncodernote;
 
 /**
  * @author sunlong
